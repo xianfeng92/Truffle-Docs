@@ -10,7 +10,7 @@
 
 * [Quickstart](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/Quickstart.md)
 
-* Choosing an Ethereum client
+* [Choosing an Ethereum client](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/EthereumClient.md)
 
 * Compiling contracts
 
