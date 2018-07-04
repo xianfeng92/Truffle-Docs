@@ -6,7 +6,9 @@
 
 ## GETTING STARTED
 
-* Installation
+* [Installation](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/Installation.md)
+
+* [Quickstart](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/Quickstart.md)
 
 * Choosing an Ethereum client
 
