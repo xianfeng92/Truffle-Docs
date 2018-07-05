@@ -18,7 +18,7 @@
 
 * [Choosing an Ethereum client](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/EthereumClient.md)
 
-* Compiling contracts
+* [Compiling contracts](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/CompilingContracts.md)
 
 * Running migrations
 
