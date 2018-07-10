@@ -20,7 +20,7 @@
 
 * [Compiling contracts](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/CompilingContracts.md)
 
-* Running migrations
+* [Running migrations](https://github.com/xianfeng92/Truffle-Docs/blob/master/pages/Runningmigrations.md)
 
 * Testing your contracts
 
